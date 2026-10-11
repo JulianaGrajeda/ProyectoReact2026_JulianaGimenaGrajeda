@@ -36,7 +36,7 @@ por una tienda de merchandising completamente funcional.
 
 - **Comunidad & Redes:** Enlaces a todas sus redes sociales oficiales.
 
- ![Imagen de la sección banda de la página](./src/assets/IntegrantesSection.png)
+ ![Imagen de la sección banda de la página](./src/assets/integrantesSection.png)
 
 
 - **Tienda(Merch):** Una tienda interactiva desarrollada con JavaScript.
