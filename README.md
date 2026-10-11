@@ -8,8 +8,8 @@
 ### 🌃 Turno
 - Talento Tech, clase de los Lunes y Miércoles. Turno noche (19 a 21hs).
 ### 👨‍🏫 Docentes 👩‍🏫
-- **Instructor**: 
-- **Tutor**: 
+- **Instructor**:  Norberto Llopiz | norberto.llopiz@bue.edu.ar  
+- **Tutor**: Tomás Torchinsky Landau | tomas.torchinsky@bue.edu.ar 
 ## ⚙️ Información del Proyecto
 ### Descripción
 
