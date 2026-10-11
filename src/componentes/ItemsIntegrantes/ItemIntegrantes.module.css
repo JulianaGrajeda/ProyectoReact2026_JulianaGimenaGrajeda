@@ -1,0 +1,65 @@
+.integranteContent{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease-out, box-shadow 0.3s ease;
+}
+
+.card{
+    width: 350px;
+    display: block;
+    transition: filter 0.3s ease;
+}
+
+
+.integranteCard{
+    position: absolute;
+    top: 0;
+    left: 0; 
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    transform-style: preserve-3d;
+    will-change: transform;
+}
+
+.imagen{
+    width: 180px;
+    border-radius: 50%;
+}
+
+.integranteInfo{
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+}
+
+.integranteInfo h1,
+.integranteInfo p {
+    margin: 0;
+    line-height: 1.1;
+}
+
+.integranteInfo p{
+    margin-top: -18px;
+}
+
+.integranteInfo h1,
+.integranteInfo p {
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.integranteContent:hover .integranteInfo h1,
+.integranteContent:hover .integranteInfo p {
+    color: var(--color-brillo);
+    text-shadow: 0 0 10px var(--color-brillo);
+}
+
+.integranteContent:hover .card {
+    filter: drop-shadow(0 20px 25px rgba(0, 0, 0, 0.6));
+}

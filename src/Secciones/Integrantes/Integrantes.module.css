@@ -1,0 +1,10 @@
+.integrantesSection{
+    width: 100%;
+    min-height: 100vh;
+    aspect-ratio: 16 / 9;
+
+    background-image: url('../../assets/integrantes.png');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}

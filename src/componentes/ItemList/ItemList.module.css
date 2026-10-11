@@ -1,0 +1,26 @@
+.itemsContainer{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.itemsCards{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.tituloProductos{
+    font-size: 100px;
+    margin-bottom: 10px;
+    color: white;
+    letter-spacing: 2px;
+}

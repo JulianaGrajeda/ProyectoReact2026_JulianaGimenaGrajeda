@@ -1,0 +1,91 @@
+
+.footer{
+    background-color: black;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 30px 0;
+    width: 100%;
+    position: relative;
+}
+
+.footerContent{
+    margin: 0 auto;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerTop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.navListFooter{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    padding: 0;
+    margin: 0;
+}
+
+.navItemFooter{
+    color: white;
+    text-decoration: none;
+    font-size:clamp(1rem,4vw,1.3rem);
+    letter-spacing: 1px;
+    transition: 0.2s;
+    
+}
+
+.navItemFooter:hover{
+    color: #c20b0b;
+}
+
+.footerDivider{
+    border: 0;
+    height: 2px;
+    background-color: #c20b0b;
+    width: 60%;
+    margin: 15px 0;
+    
+}
+
+.footerBottom{
+    width: 100%;
+}
+
+.footerInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerText{
+    font-family: 'Times New Roman';
+    font-size: 13px;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.socialMedia{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.socialMedia a i{
+    color: white;
+    font-size: 18px;
+    transition: 0.6s ease;
+}
+
+.socialMedia a i:hover{
+    color: #f12929;
+    transform: scale(1.2);
+}

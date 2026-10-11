@@ -1,0 +1,31 @@
+.headerTienda{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background: linear-gradient(to top, #391212, #171012);
+    padding: 25px 0;
+    transition: all 0.4s ease;
+}
+
+.headerTiendaContent h1{
+    color: White;
+    font-size: clamp(2.3rem, 5vw, 3.8rem);
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+    transition: all 0.4s ease;
+}
+
+.logoTienda{
+    width:clamp(90px,9vw,120px);
+    height: auto;
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: all 0.4s ease;
+}

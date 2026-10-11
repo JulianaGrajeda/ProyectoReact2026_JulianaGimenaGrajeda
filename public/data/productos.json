@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Baby Tee Angelic Spice",
+        "precio": 18500,
+        "stock": 25,
+        "imagen": "https://placehold.co/400x400/FFC0CB/FFFFFF?text=Baby+Tee+Adollz"
+    },
+    {
+        "id": 2,
+        "nombre": "Hoodie Angellz Forever",
+        "precio": 42000,
+        "stock": 12,
+        "imagen": "https://placehold.co/400x400/E6CCFF/FFFFFF?text=Angellz+Forever"
+    },
+    {
+        "id": 3,
+        "nombre": "Tote Bag Sugar Rush",
+        "precio": 14500,
+        "stock": 30,
+        "imagen": "https://placehold.co/400x400/FFB6D9/FFFFFF?text=Sugar+Rush+Bag"
+    },
+    {
+        "id": 4,
+        "nombre": "Collar Heartbreaker",
+        "precio": 9500,
+        "stock": 40,
+        "imagen": "https://placehold.co/400x400/C0C0C0/FFFFFF?text=Heartbreaker"
+    },
+    {
+        "id": 5,
+        "nombre": "Set de Stickers Adollz",
+        "precio": 5500,
+        "stock": 60,
+        "imagen": "https://placehold.co/400x400/FF69B4/FFFFFF?text=Adollz+Stickers"
+    },
+    {
+        "id": 6,
+        "nombre": "Poster Angel Energy",
+        "precio": 8000,
+        "stock": 35,
+        "imagen": "https://placehold.co/400x400/DDA0DD/FFFFFF?text=Angel+Energy"
+    },
+    {
+        "id": 7,
+        "nombre": "Llavero Pink Star",
+        "precio": 7000,
+        "stock": 45,
+        "imagen": "https://placehold.co/400x400/FFB6C1/FFFFFF?text=Pink+Star"
+    },
+    {
+        "id": 8,
+        "nombre": "Gorra Y2K Princess",
+        "precio": 22000,
+        "stock": 18,
+        "imagen": "https://placehold.co/400x400/E6E6FA/FFFFFF?text=Y2K+Princess"
+    },
+    {
+        "id": 9,
+        "nombre": "Photocard Set Angellz Edition",
+        "precio": 12000,
+        "stock": 50,
+        "imagen": "https://placehold.co/400x400/FFCCF9/FFFFFF?text=Angellz+Photocards"
+    }
+]

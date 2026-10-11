@@ -1,0 +1,21 @@
+.btnSubir{
+    background-color: #262525;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 9px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    transition: 0.5s ease;
+    z-index: 999;
+}
+
+.btnSubir i{
+    font-size: 20px;
+    color: white;
+}
+
+.btnSubir:hover{
+    background-color: #db0f0f;
+    transform: translateY(-3px);
+}

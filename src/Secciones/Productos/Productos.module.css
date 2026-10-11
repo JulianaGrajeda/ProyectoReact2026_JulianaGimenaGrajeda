@@ -1,0 +1,17 @@
+.productosSection{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(to top, #391212, #171012);
+}
+
+.productosContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.productosCards{
+    width: 50%;
+}
+

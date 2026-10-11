@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 1,
+        "nombre": "Ivy",
+        "rol": "Dark Dollz",
+        "imagen": "../../../src/assets/ivy.jpg",
+        "color": "#ff4242"
+    },
+    {
+        "ID": 2,
+        "nombre": "Azia",
+        "rol": "Lovely Dollz",
+        "imagen": "../../../src/assets/azia.jpg",
+        "color": "#ff3ca5"
+    },
+    {
+        "ID": 3,
+        "nombre": "Sofi",
+        "rol": "Fairy Dollz",
+        "imagen": "../../../src/assets/sofi.jpg",
+        "color": "#a74fff"
+    },
+    {
+        "ID": 4,
+        "nombre": "Kenny",
+        "rol": "Cool Dollz",
+        "imagen": "../../../src/assets/kenny.jpg",
+        "color": "#202fff"
+    },
+    {
+        "ID": 5,
+        "nombre": "Mich",
+        "rol": "cutie Dollz",
+        "imagen": "../../../src/assets/mich.jpg",
+        "color": "#ff9d2a"
+    }
+] 
